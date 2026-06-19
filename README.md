@@ -253,16 +253,3 @@ POST /api/v1/payment/verifyPayment
 
 ---
 
-## 👨‍💻 Author
-
-**Yash Dabhekar**
-
-GitHub: https://github.com/Y-A-S-H-07
-
-LinkedIn: https://www.linkedin.com/in/yash-dabhekar-568267284
-
----
-
-## ⭐ Support
-
-If you found this project helpful, please give it a ⭐ on GitHub and share it with others.
